@@ -47,4 +47,4 @@
 # Результат
    
    Пробудить интерес к программированию на основе личных достиженний в разработке компьютерных игр
-   (https://syrkop.github.io/slides/java/ReadBook.png)
+   ![Поздарвляю](https://syrkop.github.io/slides/java/ReadBook.png)
