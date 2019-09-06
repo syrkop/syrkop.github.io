@@ -2,7 +2,7 @@
 
    Основы программировния для школьников на языке JAVA 
     - Это практический курс
-  
+   ![Привет](https://syrkop.github.io/slides/java/Practic.png) 
 
 # Почему JAVA...
    *JAVA это*
