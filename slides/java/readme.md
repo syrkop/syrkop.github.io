@@ -2,7 +2,7 @@
 
    Основы программировния для школьников на языке JAVA 
     - Это практический курс
-   ![Привет](https://syrkop.github.io/slides/java/Practic.png) 
+ ![Привет](https://syrkop.github.io/slides/java/Practic.png) 
 
 # Почему JAVA...
    *JAVA это*
@@ -17,13 +17,13 @@
 Легко создавать графический интерфейс
 
 # Первая программа
-   ```
+ ```
    public class MyApp{
       public static void main(String[] args){
          System.out.println("Я управляю!");
       }
    }
-   ```
+ ```
   ![Привет](https://syrkop.github.io/slides/java/Java-Duke.png)
   
 # Что в курсе
