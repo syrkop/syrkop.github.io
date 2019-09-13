@@ -20,13 +20,13 @@
 
 # Первая программа
 
-```javascript
+ ```javascript
    public class MyApp{
       public static void main(String[] args){
          System.out.println("Я управляю!");
       }
    }
- ```
+  ```
   ![Привет](https://syrkop.github.io/slides/java/Java-Duke.png)
   
 # Что в курсе
