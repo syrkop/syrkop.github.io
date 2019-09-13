@@ -17,7 +17,7 @@
 Легко создавать графический интерфейс
 
 # Первая программа
- ```
+ ```java
    public class MyApp{
       public static void main(String[] args){
          System.out.println("Я управляю!");
