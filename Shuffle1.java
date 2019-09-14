@@ -2,33 +2,33 @@ $ java Shuffle1
 a-b c-d
 
 
-//кусочек 1
+//code 1
 if (x == 1) {
   System.out.print("d");
   x = x - 1;
 }
 
-//кусочек 2
+//code 2
 if (x == 2) {
   System.out.print("b c");
 }
 
-//кусочек 3
+//code 3
 class Shuffle1 {
   public static void main(String [] args){
   
   
-//кусочек 4
+//code 4
 if (x > 2) {
   System.out.print("a");
 }
 
-//кусочек 5
+//code 5
 int x = 3;
 
-//кусочек 6
+//code 6
 x = x -1;
 System.out.print("-");
 
-//кусочек 7
+//code 7
 while (x > 0){
